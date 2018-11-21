@@ -10,16 +10,16 @@
       <servers>
 
 
-   <server>
+ <server>
       <id>nexus-snapshots</id>
-      <username>admin</username>
-      <password>admin123</password>
+      <username>deployment</username>
+      <password>password</password>
    </server>
 
    <server>
       <id>nexus-releases</id>
-      <username>admin</username>
-      <password>admin123</password>
+      <username>deployment</username>
+      <password>password</password>
    </server>
 
       </servers>
